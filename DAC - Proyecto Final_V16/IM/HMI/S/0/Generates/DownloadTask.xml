@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2022-02-17 13:27:40 (UTC)"
+    Runtime="SMART"
+    RtProjectName="DAC - Proyecto Final_V16.HMI_1[KTP400 Basic PN]"
+    RtProjectFolderName="DAC - Proyecto Final_V16.HMI_1[KTP400 Basic PN]"
+    DeviceType="KTP400_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName="KTP400\16.0.0.0\KTP400_V16_00_00_00.fwf"
+    RuntimeFileName="KTP400\16.0.0.0\KTP400_V16_00_00_00.fwf"
+    RuntimeAddonFolderName="KTP400" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>
