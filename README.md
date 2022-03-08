@@ -1,10 +1,10 @@
 # Línea de producción de bebidas
 
-En la carpeta llamada "DAC - Proyecto Final_V16" de este repositorio, se encuentra los archivos del proyecto de TIA PORTAL v16
+En la carpeta llamada [DAC - Proyecto Final_V16](https://github.com/WilberRojas/beverage-production-line/tree/main/DAC%20-%20Proyecto%20Final_V16) de este repositorio, se encuentra los archivos del proyecto de TIA PORTAL v16
 
-Mientras el archivo llamado [DAC Proyecto Final](DAC Proyecto Final.factoryio) es correspondiente al escenario del programa Factory IO
+Mientras el archivo llamado [DAC Proyecto Final](https://github.com/WilberRojas/beverage-production-line/blob/main/DAC%20Proyecto%20Final.factoryio) es correspondiente al escenario del programa Factory IO
 
-[a link](https://github.com/WilberRojas/beverage-production-line/blob/main/DAC%20Proyecto%20Final.factoryio)
+
 
 ## Dosificador de liquido
 
