@@ -1,6 +1,7 @@
 # Línea de producción de bebidas
 
 En la carpeta llamada "DAC - Proyecto Final_V16" de este repositorio, se encuentra los archivos del proyecto de TIA PORTAL v16
+
 Mientras el archivo llamado "DAC Proyecto Final.factoryio" es correspondiente al escenario del programa Factory IO
 
 ## Dosificador de liquido
