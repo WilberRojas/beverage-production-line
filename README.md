@@ -8,24 +8,16 @@ Mientras el archivo llamado [DAC Proyecto Final](https://github.com/WilberRojas/
 
 ## Dosificador de liquido
 
-![alt text](https://github.com/WilberRojas/beverage-production-line/blob/main/Media/llenadora.gif)
-
 https://user-images.githubusercontent.com/74274632/157347755-f74eb2ee-b4bd-41e1-9071-3ee4a7609d51.mp4
 
 ## Etiquetadora
-
-![alt text](https://github.com/WilberRojas/beverage-production-line/blob/main/Media/etiquetadora.gif)
 
 https://user-images.githubusercontent.com/74274632/157347806-ce199b5d-3ff6-4f45-80df-ffa48e78f8f6.mp4
 
 ## Control de calidad
 
-![alt text](https://github.com/WilberRojas/beverage-production-line/blob/main/Media/control%20de%20calidad.gif)
-
 https://user-images.githubusercontent.com/74274632/157347848-255f2efc-4110-4f46-a938-3412082a71c2.mp4
 
 ## Paletizadora
-
-![alt text](https://github.com/WilberRojas/beverage-production-line/blob/main/Media/palletizer.gif)
 
 https://user-images.githubusercontent.com/74274632/157347864-fa879181-c124-47ef-a9c2-652a4a97e6aa.mp4
